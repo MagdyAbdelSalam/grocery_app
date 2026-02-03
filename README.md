@@ -6,7 +6,6 @@ A clean and modern grocery shopping mobile application built with Flutter. The a
 
 - **Dalia Ali**
 - **Mohamed Magdy**
-- **Hamed Ahmed**
 
 ## Project Description
 
