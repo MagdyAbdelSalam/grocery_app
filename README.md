@@ -137,10 +137,38 @@ flutter doctor
 - **UI Design**: The user interface is implemented based on provided design specifications, ensuring consistency and visual appeal.
 - **Academic Project**: This project was developed as part of a university graduation requirement, demonstrating practical application of software engineering principles and mobile development skills.
 
-## License
+## screens 
+<img width="485" height="935" alt="2" src="https://github.com/user-attachments/assets/46d5af0d-6036-419f-807d-985fd0655e8a" />
+
+<img width="485" height="935" alt="1" src="https://github.com/user-attachments/assets/51350b1f-c9b2-41f2-9417-bd5d621d9917" />
+
+<img width="485" height="935" alt="3" src="https://github.com/user-attachments/assets/d3f86c90-246f-4767-95d3-13858efb8ca7" />
+
+<img width="485" height="935" alt="4" src="https://github.com/user-attachments/assets/e2cc3b5e-79c4-4a07-a232-cf07f4f3fa4c" />
+
+<img width="485" height="935" alt="5" src="https://github.com/user-attachments/assets/060f318d-5e26-40c5-92c2-7598303ff75f" />
+
+<img width="485" height="935" alt="6" src="https://github.com/user-attachments/assets/0b9b3dba-da06-4c9e-a522-5023c1b79e60" />
+
+<img width="485" height="935" alt="7" src="https://github.com/user-attachments/assets/c0210c0d-74c2-4216-9e38-c807a6419a5a" />
+
+<img width="485" height="935" alt="8" src="https://github.com/user-attachments/assets/4a71963d-5ea5-4f7a-9e30-bd820d7294f3" />
+
+<img width="485" height="935" alt="9" src="https://github.com/user-attachments/assets/fa37d6c1-d8e1-4dc2-8520-a87fb6a1d1d2" />
+
+<img width="485" height="935" alt="10" src="https://github.com/user-attachments/assets/fc2e27d6-1860-44d9-a5ff-34d316d9ad31" />
+
+
+
+
+
+
+
+
+
 
 This project is developed for academic purposes as part of a university graduation project.
 
 ---
 
-**Developed by**: Dalia Ali, Mohamed Magdy, and Hamed Ahmed
+**Developed by**: Dalia Ali, Mohamed Magdy, and 
